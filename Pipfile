@@ -1,0 +1,4 @@
+[packages]
+backtrader = "*"
+requests = "*"
+matplotlib = "== 3.2.2"
